@@ -14,6 +14,7 @@ We also provide an implementation for "LOVE" particle system, see CG_Particle_Sy
 <div align=center><img width="50%" height="50%" src="figure/1.png"/></div>
 
 ## Demo
+You can also see demo.pdf for more details:
 
-![figure](figure/2.png)
-![figure](figure/3.png)
+<div align=center><img width="70%" height="70%" src="figure/2.png"/></div>
+<div align=center><img width="70%" height="70%" src="figure/3.png"/></div>
