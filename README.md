@@ -11,9 +11,9 @@ You can see the technical details from slides: CG_3D_Maze_Roaming.pdf and CG_Tex
 
 We also provide an implementation for "LOVE" particle system, see CG_Particle_System.pdf
 
-<div align=center><img width="50%" height="50%" src="figure/1.png"/></div>
+<div align=center><img width="40%" height="40%" src="figure/1.png"/></div>
 
 ## Demo
 You can also see demo.pdf for more details:
 
-<div align=center><img width="40%" height="40%" src="figure/2.png"/> <img width="37%" height="37%" src="figure/3.png"/></div>
+<div align=center><img width="38%" height="38%" src="figure/2.png"/> <img width="37%" height="37%" src="figure/3.png"/></div>
